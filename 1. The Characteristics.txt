@@ -9,24 +9,123 @@
 
 		1. PROVIDE BALANCED ATTENTION.
 
-			FOCUS ATTENTION BASED ON CIRCUMSTANCES AND MAIN GOALS.
+			. FOCUS ATTENTION BASED ON CIRCUMSTANCES AND MAIN GOALS.
 
 		2. ENCOURAGE IDEAS TO EVOLVE TOWARD A SOLUTION.
 
-			ASK "WHAT ELSE CAN WE ADD TO THAT IDEA?"
+			. ASK "WHAT ELSE CAN WE ADD TO THAT IDEA?"
 
 		3. GIVE EQUAL WEIGHT.
 
-			DOES THE PRODUCT OWNER'S VOICE GET HEARD?
+			. DOES THE PRODUCT OWNER'S VOICE GET HEARD?
 
-			ARE THE PRODUCT OWNER'S PRIORITIES BEING EXPRESSED TO THE TEAM?
+			. ARE THE PRODUCT OWNER'S PRIORITIES BEING EXPRESSED TO THE TEAM?
 
-			DOES THE TEAM HAVE AN OPPORTUNITY TO WEIGH IN ON THOSE PRIORITIES?
+			. DOES THE TEAM HAVE AN OPPORTUNITY TO WEIGH IN ON THOSE PRIORITIES?
 
-			ARE YOU DOING A GOOD JOB OF BRINGING THOSE VOICES TOGETHER?
+			. ARE YOU DOING A GOOD JOB OF BRINGING THOSE VOICES TOGETHER?
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Revealing root causes
+-----------------------
+		1. DEVELOP A SHARED POOL OF KNOWLEDGE.
+
+			. ENSURE THAT EVERYONE ON THE TEAM IS CONTRIBUTING TO THE CONVERSATION.
+
+			. ENCOURAGE EVERYONE TO DISCUSS WHAT WENT RIGHT AND WHAT WENT WRONG.
+	
+			. LISTEN TO EVERY VOICE AND ENSURE THAT EACH ONE IS HEARD BY ALL.
+
+
+		2. IDENTIFY PATTERNS WHICH DEEPEN YOUR UNDERSTANDING OF THE PROBLEM.
+
+		3. FACILITATE EXPOSING INSIGHTS.
+
+			. WHAT HAVE WE LEARNED AS A RESULT OF THE PATTERNS WE'VE UNCOVERED?
+
+			. WHAT SEEMS OBVIOUS AS A ROOT CAUSE?
+
+			. WHAT'S IMPORTANTE HERE?
+
+			. HOW CAN WE GET MORE CLARITY?
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Passionately coach scrum
+--------------------------
+		SCRUM IS SIMPLE BUT HARD TO APPLY.
+
+		1. GAIN A DEEP UNDERSTANDING OF SCRUM AND OTHER AGILE FRAMEWORKS.
+
+		2. BUILD A HABIT OF REVIEWING DECISIONS AND PRACTICES - AND THEIR IMPACTS.
+
+		3. SUPPORT THE APPLICATION OF THE SCRUM FRAMEWORK.
+
+		THIS IS VERY IMPORTANT AND MUST TO BE REMEMBERED:
+		-------------------------------------------------
+		MOST TEAMS WILL GO THROUGH MANY ITERATIONS:
+
+			. TRYING TO FORM ITSELF.
+
+			. BUILD THE PROPER SKILLS.
+
+			. CHANGE ORGANIZATIONAL NORMS.
+
+			. REMOVING COUNTLESS IMPEDIMENTS JUST TO GET CLOSE TO BUILDING POTENTIALLY SHIPPABLE INCREMENTS CONSISTENTLY EACH SPRINT.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Doggedly remove obstacles
+---------------------------
+		1. ADEQUATLY IDENTIFY THE IMPEDIMENT.
+
+		2. IDENTIFY WHO CAN BEST REMOVE THE IMPEDIMENT.
+		
+		3. HELP DEVELOP A STRATEGY TO REMOVE THE OBSTACLE.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
